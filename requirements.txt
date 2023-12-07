@@ -1,0 +1,5 @@
+dlib~=19.24.2
+tqdm~=4.65.0
+opencv-python~=4.8.0.76
+numpy~=1.24.3
+pandas~=1.5.3
