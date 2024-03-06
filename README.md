@@ -170,5 +170,16 @@ Example output is available under `evaluation_data/CCMiniVID-A_TCN4_metrics.json
 
 [2] Let Me Take a Better Look: Towards Video-based Age Estimation
 ```
-BibTeX not available, to be added
+@conference{icpram24,
+author={Krešimir Bešenić. and Igor Pandžić. and Jörgen Ahlberg.},
+title={Let Me Take a Better Look: Towards Video-Based Age Estimation},
+booktitle={Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods - ICPRAM},
+year={2024},
+pages={57-69},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0012376800003654},
+isbn={978-989-758-684-2},
+issn={2184-4313},
+}
 ```
